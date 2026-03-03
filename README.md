@@ -90,8 +90,8 @@ Canadian_flag_Quiz/
 
 ## 👤 Auteur
 
-- **Numéro d'étudiant** : 2791918
-- **Cours** : UA1 — Examen
+- **Nom** : Kryss Rayane
+- **github** : [KryssSampi](github.com/kryssSampi)
 
 ## 📄 Licence
 
