@@ -1,4 +1,4 @@
-# 🍁 Quiz du Drapeau Canadien
+# 🍁 Quiz des Drapeaux Provinciaux Canadien
 
 > Application iOS interactive pour tester ses connaissances sur les drapeaux des provinces et territoires du Canada.
 
